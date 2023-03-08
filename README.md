@@ -1,2 +1,3 @@
 # PackerProblem
-This is a Packer Problem project for the UCLan assignment (Data Structures, C++)
+
+UCLAN Project. This is a Bin Packer Problem project (CO1406, C++)
